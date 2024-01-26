@@ -1,5 +1,5 @@
 <p>REFLECTION DESIGN THINKING
-  a.Summary of Gained Insights from Design Thinking:
+<P> a.Summary of Gained Insights from Design Thinking:
    - Design Thinking is a problem-solving approach that focuses on understanding and addressing user needs in a creative and iterative manner.
    - The process involves five phases: empathy, define, ideate, prototype, and testing, with a continuous loop for adjustments based on testing outcomes.
    - The application of Design Thinking in the context of Privacy, Security, and Ethics in finance tools involved conducting a survey to identify issues and developing a financial application prototype, "SafeStash," addressing identified problems.
